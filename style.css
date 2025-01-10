@@ -660,9 +660,9 @@ body {
     }
 
     .design-right img {
-        width: 100%;
-        right: 0;
-        position: relative;
+        width: 28rem;
+        /* right: 0; */
+        /* position: relative; */
     }
 
 
@@ -672,7 +672,7 @@ body {
     } */
 
     .design-left1 img {
-        max-width: 100%;
+        max-width: 28rem;
     }
 
     .design-right1 h2 {

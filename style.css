@@ -556,7 +556,7 @@ body {
     .design-left1 img {
         position: relative;
         left: 0;
-        max-width: 60%;
+        max-width: 36rem;
         height: auto;
     }
 
@@ -668,8 +668,8 @@ body {
 
     /* Design1 Section */
     .design-left1{
-        margin-left: 2rem;
-    }
+        /* margin-left: 2rem;
+    } */
 
     .design-left1 img {
         max-width: 100%;
@@ -767,7 +767,7 @@ body {
     }
 
     .infra-img2 {
-        width: 100%;
+        width: 90%;
         text-align: center;
         margin-top: -11rem;
     }
@@ -905,9 +905,9 @@ body {
         font-size: 0.875rem;
     }
 
-    .design-left1{
+    /* .design-left1{
         margin-left: 0rem;
-    }
+    } */
    
     .design-left1 img {
         width: 100%;

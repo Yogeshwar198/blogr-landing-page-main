@@ -550,7 +550,7 @@ body {
 
     .design-left1 {
         max-width: 100%;
-        margin-bottom: 20px;
+        /* margin-bottom: 20px; */
     }
 
     .design-left1 img {
@@ -564,6 +564,7 @@ body {
     .design-right1 {
         max-width: 90%;
         text-align: center;
+        padding-top: 10px;
     }
 
     .design-right1 h2 {
@@ -893,7 +894,7 @@ body {
     }
 
     .design-right1 {
-        padding: 0px;
+        padding: 0px 0px 50px 0px;
     }
 
     .design-right1 h2 {
@@ -904,16 +905,12 @@ body {
         font-size: 0.875rem;
     }
 
-    .design-part1 {
-        padding: 0px 0px 50px 0px;
-    }
-
     .design-left1{
         margin-left: 0rem;
     }
    
     .design-left1 img {
-        max-width: 120%;
+        width: 100%;
         padding: 2rem 0rem;
     }
 
